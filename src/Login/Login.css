@@ -3,6 +3,13 @@
 	margin-top: 20%;
 }
 
+.loginHeader{
+	background: yellow;
+	width: 20%;
+	margin: auto;
+	padding: 5px;
+}
+
 .inputButton{
 	padding: 5px;
 	margin: 2px;
